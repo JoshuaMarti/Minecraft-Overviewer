@@ -1,3 +1,4 @@
+For more current info about Overviewer, visit https://github.com/GregoryAM-SP/The-Minecraft-Overviewer
 ====================================
 Minecraft Overviewer  |Build Status|
 ====================================
